@@ -1,14 +1,16 @@
 <h2> Chris </h3>
-<a href="https://linkedin.com/in/chriswildman"><img src="https://img.shields.io/badge/-Chris%20Wildman-black?logo=linkedin&logoColor=0A66C2"/></a>&nbsp;
-<a hred="mailto:seewilds@protonmail.com"><img src="https://img.shields.io/badge/-seewilds@protonmail.com-black?logo=ProtonMail&logoColor=8B89CC"></a>
+
+<div style="display: inline-block">
+<a href="https://linkedin.com/in/chriswildman"><img src="https://img.shields.io/badge/-Chris-black?logo=linkedin&logoColor=0A66C2"/></a>&nbsp;
+<a href="mailto:seewilds@protonmail.com"><img src="https://img.shields.io/badge/-seewilds@protonmail.com-black?logo=ProtonMail&logoColor=8B89CC"></a>
+</div>
+
 <h3> Elevator Pitch </h4>
 Howdy, my name is Chris, I'm a budding developer, and currently a student at 
 Seneca College.
 
-I'm learning programming because I believe it's the future of everything, I'm 
-interested in the transformation of data to information, and love problem 
-solving.
-
+I'm learning programming because I believe it's the future of everything, I love
+problem solving, and am interested in the transformation of data to information.
 
 <h3> Knowledgish Base </h4>
 <div style="display: inline-block">
