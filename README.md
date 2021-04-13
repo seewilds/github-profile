@@ -1,6 +1,7 @@
-# Chris Wildman
+<h3> Chris </h3>
+<a href="https://linkedin.com/in/chriswildman"><img src="https://img.shields.io/badge/-Chris%20Wildman-black?logo=linkedin&logoColor=0A66C2"/></a>
 
-## Elevator Pitch
+<h4> Elevator Pitch </h4>
 Howdy, my name is Chris, I'm a budding developer, and currently a student at 
 Seneca College.
 
@@ -9,7 +10,9 @@ interested in the transformation of data to information, and love problem
 solving.
 
 
-## Knowledge Base
+<h4> Knowledgish Base </h4>
+<img src="https://img.shields.io/badge/-R-black?logo=R&logoColor=276DC3" alt="R">
+
 ![R](https://img.shields.io/badge/-R-black?logo=R&logoColor=276DC3)
 ![C](https://img.shields.io/badge/-C-black?logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-black?logo=C%2B%2B&logoColor=00599C)
