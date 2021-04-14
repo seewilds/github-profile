@@ -6,11 +6,13 @@
 </div>
 
 <h3> Elevator Pitch </h4>
-Howdy, my name is Chris, I'm a budding developer, and currently a student at 
-Seneca College.
+Howdy, my name is Chris. I'm a budding software developer, and currently a 
+student at Seneca College.
 
 I'm learning programming because I believe it's the future of everything, I love
-problem solving, and am interested in the transformation of data to information.
+problem solving, and am interested in the collection of data, its transformation 
+into information and the insight that follows. Also, who doesn't want to be
+the protagonist from Snow Crash?
 
 <h3> Knowledgish Base </h4>
 <div style="display: inline-block">
