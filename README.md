@@ -17,9 +17,10 @@ Also, who doesn't want to be the protagonist from Snow Crash?
 <div style="display: inline-block">
 <img src="https://img.shields.io/badge/-R-black?logo=R&logoColor=276DC3" alt="R"/>&nbsp; 
 <img src="https://img.shields.io/badge/-C-black?logo=C&logoColor=A8B9CC" alt="C"/>&nbsp; 
-<img src="https://img.shields.io/badge/-C++-black?logo=C%2B%2B&logoColor=00599C" alt="C++"/>&nbsp; 
+<img src="https://img.shields.io/badge/-C++-black?logo=C%2B%2B&logoColor=00599C" alt="C++"/>&nbsp;
+<img src="https://img.shields.io/badge/-java-black?logo=java&logoColor=f89820" alt="Java"/>&nbsp; 
 <img src="https://img.shields.io/badge/-JS-black?logo=JavaScript&logoColor=F7DF1E" alt="JS"/>&nbsp; 
 <img src="https://img.shields.io/badge/-HTML-black?logo=HTML5&logoColor=E34F26" alt="HTML"/>&nbsp; 
-<img src="https://img.shields.io/badge/-CSS-black?logo=CSS3&logoColor=1572B6" alt="CSS"/>&nbsp; 
+<img src="https://img.shields.io/badge/-CSS-black?logo=CSS3&logoColor=1572B6" alt="CSS"/>&nbsp;  
 </div>
 
