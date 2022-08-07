@@ -15,8 +15,8 @@ Also, who doesn't want to be the protagonist from Snow Crash?
 
 <h3> Knowledgish Base </h4>
 <div style="display: inline-block">
-<img src="https://img.shields.io/badge/-C%23-black?logo=C%20Sharp&logoColor=3178C6" alt="C#"/>&nbsp; 
-<img src="https://img.shields.io/badge/-TypeScript-black?logo=TypeScript&logoColor=239120" alt="TypeScript"/>&nbsp; 
+<img src="https://img.shields.io/badge/-C%23-black?logo=C%20Sharp&logoColor=239120" alt="C#"/>&nbsp; 
+<img src="https://img.shields.io/badge/-TypeScript-black?logo=TypeScript&logoColor=3178C6" alt="TypeScript"/>&nbsp; 
 <img src="https://img.shields.io/badge/-R-black?logo=R&logoColor=276DC3" alt="R"/>&nbsp; 
 <img src="https://img.shields.io/badge/-C-black?logo=C&logoColor=A8B9CC" alt="C"/>&nbsp; 
 <img src="https://img.shields.io/badge/-C++-black?logo=C%2B%2B&logoColor=00599C" alt="C++"/>&nbsp;
