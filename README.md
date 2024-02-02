@@ -14,7 +14,8 @@ problem solving, modelling with data and the insight that can come from that. Co
 
 <h3> Knowledgish Base </h4>
 <div style="display: inline-block">
-<img src="https://img.shields.io/badge/-C%23-black?logo=C%20Sharp&logoColor=239120" alt="C#"/>&nbsp; 
+<img src="https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp&logoColor=%23239120" alt="C#"/>&nbsp; 
+<img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=5C2D91".Net"/>&nbsp; 
 <img src="https://img.shields.io/badge/-TypeScript-black?logo=TypeScript&logoColor=3178C6" alt="TypeScript"/>&nbsp; 
 <img src="https://img.shields.io/badge/-R-black?logo=R&logoColor=276DC3" alt="R"/>&nbsp; 
 <img src="https://img.shields.io/badge/-C-black?logo=C&logoColor=A8B9CC" alt="C"/>&nbsp; 
