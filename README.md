@@ -10,7 +10,7 @@ Howdy, my name is Chris. I'm a software developer, a
 graduate of both York University, and Seneca College.<br>
 <br>
 I'm became a programmer because I believe it's the future of everything. I love
-problem solving, modelling with data and the insight that can come from that. Code provides the opportunity for all that and more. We can make people's lives better; whether by increasing productivity (the only way to get richer), build the structures and systems for a better tomorrow, or just create more engaging ways to while away the time. Also, who doesn't want to be the protagonist from Snow Crash?
+problem solving, modelling with data, and the insight that can come from that. Coding provides the opportunity to do all that and so much more. We can make people's lives better; whether by increasing productivity (the only way to get richer), build the structures and systems for a better tomorrow, or just create more engaging ways to while away the time. Also, who doesn't want to be the protagonist from Snow Crash?
 
 <h3> Knowledgish Base </h4>
 <div style="display: inline-block">
